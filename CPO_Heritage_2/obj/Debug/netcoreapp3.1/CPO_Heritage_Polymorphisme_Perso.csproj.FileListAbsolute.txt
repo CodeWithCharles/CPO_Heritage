@@ -1,0 +1,14 @@
+C:\Users\Charles\Desktop\2SIO\STJOSUP\BLOC3\C#\CPO_Heritage\CPO_Heritage_2\bin\Debug\netcoreapp3.1\CPO_Heritage_Polymorphisme_Perso.exe
+C:\Users\Charles\Desktop\2SIO\STJOSUP\BLOC3\C#\CPO_Heritage\CPO_Heritage_2\bin\Debug\netcoreapp3.1\CPO_Heritage_Polymorphisme_Perso.deps.json
+C:\Users\Charles\Desktop\2SIO\STJOSUP\BLOC3\C#\CPO_Heritage\CPO_Heritage_2\bin\Debug\netcoreapp3.1\CPO_Heritage_Polymorphisme_Perso.runtimeconfig.json
+C:\Users\Charles\Desktop\2SIO\STJOSUP\BLOC3\C#\CPO_Heritage\CPO_Heritage_2\bin\Debug\netcoreapp3.1\CPO_Heritage_Polymorphisme_Perso.runtimeconfig.dev.json
+C:\Users\Charles\Desktop\2SIO\STJOSUP\BLOC3\C#\CPO_Heritage\CPO_Heritage_2\bin\Debug\netcoreapp3.1\CPO_Heritage_Polymorphisme_Perso.dll
+C:\Users\Charles\Desktop\2SIO\STJOSUP\BLOC3\C#\CPO_Heritage\CPO_Heritage_2\bin\Debug\netcoreapp3.1\CPO_Heritage_Polymorphisme_Perso.pdb
+C:\Users\Charles\Desktop\2SIO\STJOSUP\BLOC3\C#\CPO_Heritage\CPO_Heritage_2\obj\Debug\netcoreapp3.1\CPO_Heritage_Polymorphisme_Perso.csproj.AssemblyReference.cache
+C:\Users\Charles\Desktop\2SIO\STJOSUP\BLOC3\C#\CPO_Heritage\CPO_Heritage_2\obj\Debug\netcoreapp3.1\CPO_Heritage_Polymorphisme_Perso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Charles\Desktop\2SIO\STJOSUP\BLOC3\C#\CPO_Heritage\CPO_Heritage_2\obj\Debug\netcoreapp3.1\CPO_Heritage_Polymorphisme_Perso.AssemblyInfoInputs.cache
+C:\Users\Charles\Desktop\2SIO\STJOSUP\BLOC3\C#\CPO_Heritage\CPO_Heritage_2\obj\Debug\netcoreapp3.1\CPO_Heritage_Polymorphisme_Perso.AssemblyInfo.cs
+C:\Users\Charles\Desktop\2SIO\STJOSUP\BLOC3\C#\CPO_Heritage\CPO_Heritage_2\obj\Debug\netcoreapp3.1\CPO_Heritage_Polymorphisme_Perso.csproj.CoreCompileInputs.cache
+C:\Users\Charles\Desktop\2SIO\STJOSUP\BLOC3\C#\CPO_Heritage\CPO_Heritage_2\obj\Debug\netcoreapp3.1\CPO_Heritage_Polymorphisme_Perso.dll
+C:\Users\Charles\Desktop\2SIO\STJOSUP\BLOC3\C#\CPO_Heritage\CPO_Heritage_2\obj\Debug\netcoreapp3.1\CPO_Heritage_Polymorphisme_Perso.pdb
+C:\Users\Charles\Desktop\2SIO\STJOSUP\BLOC3\C#\CPO_Heritage\CPO_Heritage_2\obj\Debug\netcoreapp3.1\CPO_Heritage_Polymorphisme_Perso.genruntimeconfig.cache

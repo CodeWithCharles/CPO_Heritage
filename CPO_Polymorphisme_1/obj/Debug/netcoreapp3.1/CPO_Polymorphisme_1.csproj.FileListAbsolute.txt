@@ -1,0 +1,14 @@
+C:\Users\Charles\Desktop\2SIO\STJOSUP\BLOC3\C#\CPO_Heritage\CPO_Polymorphisme_1\bin\Debug\netcoreapp3.1\CPO_Polymorphisme_1.exe
+C:\Users\Charles\Desktop\2SIO\STJOSUP\BLOC3\C#\CPO_Heritage\CPO_Polymorphisme_1\bin\Debug\netcoreapp3.1\CPO_Polymorphisme_1.deps.json
+C:\Users\Charles\Desktop\2SIO\STJOSUP\BLOC3\C#\CPO_Heritage\CPO_Polymorphisme_1\bin\Debug\netcoreapp3.1\CPO_Polymorphisme_1.runtimeconfig.json
+C:\Users\Charles\Desktop\2SIO\STJOSUP\BLOC3\C#\CPO_Heritage\CPO_Polymorphisme_1\bin\Debug\netcoreapp3.1\CPO_Polymorphisme_1.runtimeconfig.dev.json
+C:\Users\Charles\Desktop\2SIO\STJOSUP\BLOC3\C#\CPO_Heritage\CPO_Polymorphisme_1\bin\Debug\netcoreapp3.1\CPO_Polymorphisme_1.dll
+C:\Users\Charles\Desktop\2SIO\STJOSUP\BLOC3\C#\CPO_Heritage\CPO_Polymorphisme_1\bin\Debug\netcoreapp3.1\CPO_Polymorphisme_1.pdb
+C:\Users\Charles\Desktop\2SIO\STJOSUP\BLOC3\C#\CPO_Heritage\CPO_Polymorphisme_1\obj\Debug\netcoreapp3.1\CPO_Polymorphisme_1.csproj.AssemblyReference.cache
+C:\Users\Charles\Desktop\2SIO\STJOSUP\BLOC3\C#\CPO_Heritage\CPO_Polymorphisme_1\obj\Debug\netcoreapp3.1\CPO_Polymorphisme_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Charles\Desktop\2SIO\STJOSUP\BLOC3\C#\CPO_Heritage\CPO_Polymorphisme_1\obj\Debug\netcoreapp3.1\CPO_Polymorphisme_1.AssemblyInfoInputs.cache
+C:\Users\Charles\Desktop\2SIO\STJOSUP\BLOC3\C#\CPO_Heritage\CPO_Polymorphisme_1\obj\Debug\netcoreapp3.1\CPO_Polymorphisme_1.AssemblyInfo.cs
+C:\Users\Charles\Desktop\2SIO\STJOSUP\BLOC3\C#\CPO_Heritage\CPO_Polymorphisme_1\obj\Debug\netcoreapp3.1\CPO_Polymorphisme_1.csproj.CoreCompileInputs.cache
+C:\Users\Charles\Desktop\2SIO\STJOSUP\BLOC3\C#\CPO_Heritage\CPO_Polymorphisme_1\obj\Debug\netcoreapp3.1\CPO_Polymorphisme_1.dll
+C:\Users\Charles\Desktop\2SIO\STJOSUP\BLOC3\C#\CPO_Heritage\CPO_Polymorphisme_1\obj\Debug\netcoreapp3.1\CPO_Polymorphisme_1.pdb
+C:\Users\Charles\Desktop\2SIO\STJOSUP\BLOC3\C#\CPO_Heritage\CPO_Polymorphisme_1\obj\Debug\netcoreapp3.1\CPO_Polymorphisme_1.genruntimeconfig.cache

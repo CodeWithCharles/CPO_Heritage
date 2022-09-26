@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CPO_Heritage_Polymorphisme_Perso/1.0.0": {
+        "runtime": {
+          "CPO_Heritage_Polymorphisme_Perso.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CPO_Heritage_Polymorphisme_Perso/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
