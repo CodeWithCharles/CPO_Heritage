@@ -68,12 +68,30 @@ namespace CPO_Heritage_1.Classes
                 + "\nCoûts de production : " 
                 + this.cout() + "euros";
         }
+
+        public new string afficherNonVirtual()
+        {
+            return base.afficherNonVirtual()
+                + "\nAtelier de fabrication : "
+                + this.numAtelierFabrication
+                + "\nNombre d'heures de fabrication : "
+                + this.nbHeuresFabrication
+                + " - Prix des matières premières : "
+                + this.coutMatieresPremieres
+                + "\nCoûts de production : "
+                + this.coutNonVirtual() + "euros";
+        }
         #endregion
 
         #region Fonctions
         public override double cout()
         {
-            return this.coutMatieresPremieres + 100 * this.nbHeuresFabrication;
+            return this.coutMatieresPremieres + 400 * this.nbHeuresFabrication;
+        }
+
+        public new double coutNonVirtual()
+        {
+            return this.coutMatieresPremieres + 400 * this.nbHeuresFabrication;
         }
         #endregion
     }

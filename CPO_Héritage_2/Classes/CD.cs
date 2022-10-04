@@ -7,11 +7,11 @@ namespace CPO_Heritage_2.Classes
     public class CD
     {
         #region Attributs
-        public string title { get; set; }
-        public string creatorName { get; set; }
-        public TimeSpan duration { get; private set; }
-        public int stock { get; set; }
-        public string comment { get; set; }
+        protected string title { get; set; }
+        protected string creatorName { get; set; }
+        protected TimeSpan duration { get; private set; }
+        protected int stock { get; set; }
+        protected string comment { get; set; }
         #endregion
 
         #region Constructeur

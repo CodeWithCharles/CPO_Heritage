@@ -52,10 +52,24 @@ namespace CPO_Heritage_1.Classes
                 + "\nPrix d'achat : " 
                 + this.cout() + "euros";
         }
+
+        public new string afficherNonVirtual()
+        {
+            return base.afficherNonVirtual()
+                + "\nFournisseur : "
+                + this.numeroFournisseur
+                + "\nPrix d'achat : "
+                + this.coutNonVirtual() + "euros";
+        }
         #endregion
 
         #region Fonctions
         public override double cout()
+        {
+            return this.prixAchat + 100;
+        }
+
+        public new double coutNonVirtual()
         {
             return this.prixAchat + 100;
         }

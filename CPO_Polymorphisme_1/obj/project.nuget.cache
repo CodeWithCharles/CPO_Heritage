@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AyCB1rdTEi5hgBk1x8TjPHqIUS6BA1FcFtt933T3FRLP7m6DPNNREYNlLxaJTzL9p88epZ/IAH5a3ygzg/c5Nw==",
+  "dgSpecHash": "03k8U0RDNMiFahX8YnWHXJQTW0B8lJeur4tAo6yyh9KY252xpDXJclROUTDDr8As6DHDbmIXvOj1Xv/DuSC4Dw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Charles\\Desktop\\2SIO\\STJOSUP\\BLOC3\\C#\\CPO_Heritage\\CPO_Polymorphisme_1\\CPO_Polymorphisme_1.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Charles\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512",
-    "C:\\Users\\Charles\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

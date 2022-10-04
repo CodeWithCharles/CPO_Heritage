@@ -7,13 +7,13 @@ namespace CPO_Heritage_2.Classes
     public class Biblio
     {
         #region Attributs
-        public List<CD> cds { get; private set; }
+        public List<Object> cds { get; private set; }
         #endregion
 
         #region Constructeurs
         public Biblio()
         {
-            this.cds = new List<CD>();
+            this.cds = new List<Object>();
         }
         #endregion
 
@@ -21,7 +21,7 @@ namespace CPO_Heritage_2.Classes
         public override string ToString()
         {
             string result = "";
-            foreach (CD cd in this.cds)
+            foreach (Object cd in this.cds)
             {
                 result += cd.ToString() + "\n\n";
             }
@@ -31,9 +31,9 @@ namespace CPO_Heritage_2.Classes
         #endregion
 
         #region Méthodes
-        public void addCD(params CD[] cdsToAdd)
+        public void addCD(params Object[] cdsToAdd)
         {
-            foreach(CD newCD in cdsToAdd)
+            foreach(Object newCD in cdsToAdd)
             {
                 this.cds.Add(newCD);
             }

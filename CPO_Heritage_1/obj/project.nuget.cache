@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "I2pIEAsrE9iT/QlSpID8NvZ1ptafjB4iAVjdOCcWtiT4++nIf+N25ww37afEV/E5JnW9jkgwG8sW54XRGcZWjA==",
+  "dgSpecHash": "f/IGNlckP0MaHzP4Jz19aAjjxuDOJ4Y8VSnGPJrcZpZ8ROomc6Vh/ahLcpA0CeiW70QZwZAnXmDnaYeWUynFRQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Charles\\Desktop\\2SIO\\STJOSUP\\BLOC3\\C#\\CPO_Heritage\\CPO_Heritage_1\\CPO_Heritage_1.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Charles\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512",
-    "C:\\Users\\Charles\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

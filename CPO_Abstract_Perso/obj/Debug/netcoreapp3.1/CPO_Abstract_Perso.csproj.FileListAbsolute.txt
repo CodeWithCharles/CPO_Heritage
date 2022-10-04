@@ -1,0 +1,14 @@
+C:\Users\Charles\Desktop\2SIO\STJOSUP\BLOC3\C#\CPO_Heritage\CPO_Abstract_Perso\bin\Debug\netcoreapp3.1\CPO_Abstract_Perso.exe
+C:\Users\Charles\Desktop\2SIO\STJOSUP\BLOC3\C#\CPO_Heritage\CPO_Abstract_Perso\bin\Debug\netcoreapp3.1\CPO_Abstract_Perso.deps.json
+C:\Users\Charles\Desktop\2SIO\STJOSUP\BLOC3\C#\CPO_Heritage\CPO_Abstract_Perso\bin\Debug\netcoreapp3.1\CPO_Abstract_Perso.runtimeconfig.json
+C:\Users\Charles\Desktop\2SIO\STJOSUP\BLOC3\C#\CPO_Heritage\CPO_Abstract_Perso\bin\Debug\netcoreapp3.1\CPO_Abstract_Perso.runtimeconfig.dev.json
+C:\Users\Charles\Desktop\2SIO\STJOSUP\BLOC3\C#\CPO_Heritage\CPO_Abstract_Perso\bin\Debug\netcoreapp3.1\CPO_Abstract_Perso.dll
+C:\Users\Charles\Desktop\2SIO\STJOSUP\BLOC3\C#\CPO_Heritage\CPO_Abstract_Perso\bin\Debug\netcoreapp3.1\CPO_Abstract_Perso.pdb
+C:\Users\Charles\Desktop\2SIO\STJOSUP\BLOC3\C#\CPO_Heritage\CPO_Abstract_Perso\obj\Debug\netcoreapp3.1\CPO_Abstract_Perso.csproj.AssemblyReference.cache
+C:\Users\Charles\Desktop\2SIO\STJOSUP\BLOC3\C#\CPO_Heritage\CPO_Abstract_Perso\obj\Debug\netcoreapp3.1\CPO_Abstract_Perso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Charles\Desktop\2SIO\STJOSUP\BLOC3\C#\CPO_Heritage\CPO_Abstract_Perso\obj\Debug\netcoreapp3.1\CPO_Abstract_Perso.AssemblyInfoInputs.cache
+C:\Users\Charles\Desktop\2SIO\STJOSUP\BLOC3\C#\CPO_Heritage\CPO_Abstract_Perso\obj\Debug\netcoreapp3.1\CPO_Abstract_Perso.AssemblyInfo.cs
+C:\Users\Charles\Desktop\2SIO\STJOSUP\BLOC3\C#\CPO_Heritage\CPO_Abstract_Perso\obj\Debug\netcoreapp3.1\CPO_Abstract_Perso.csproj.CoreCompileInputs.cache
+C:\Users\Charles\Desktop\2SIO\STJOSUP\BLOC3\C#\CPO_Heritage\CPO_Abstract_Perso\obj\Debug\netcoreapp3.1\CPO_Abstract_Perso.dll
+C:\Users\Charles\Desktop\2SIO\STJOSUP\BLOC3\C#\CPO_Heritage\CPO_Abstract_Perso\obj\Debug\netcoreapp3.1\CPO_Abstract_Perso.pdb
+C:\Users\Charles\Desktop\2SIO\STJOSUP\BLOC3\C#\CPO_Heritage\CPO_Abstract_Perso\obj\Debug\netcoreapp3.1\CPO_Abstract_Perso.genruntimeconfig.cache

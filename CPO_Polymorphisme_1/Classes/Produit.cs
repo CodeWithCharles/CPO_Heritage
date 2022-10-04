@@ -64,17 +64,39 @@ namespace CPO_Heritage_1.Classes
                 + this.designation 
                 + " - " + this.prixVente + "euros";
         }
+
+        public string afficherNonVirtual()
+        {
+            return "Produit : "
+                + this.reference
+                + "\nDésignation : "
+                + this.designation
+                + " - " + this.prixVente + "euros";
+        }
         #endregion
 
         #region Fonctions
         public virtual double cout()
         {
-            return this.prixVente + 100;
+            return 0;
         }
 
-        public double marge()
+        public double coutNonVirtual()
         {
-            return this.prixVente - this.cout();
+            return 0;
+        }
+
+        public double marge(Boolean isVirtual)
+        {
+            double marge = 0;
+            if(isVirtual)
+            {
+                marge = this.prixVente - this.cout();
+            } else
+            {
+                marge = this.prixVente - this.coutNonVirtual();
+            }
+            return marge;
         }
         #endregion
     }
