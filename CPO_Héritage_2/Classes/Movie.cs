@@ -18,7 +18,7 @@ namespace CPO_Heritage_2.Classes
         #endregion
 
         #region Fonction
-        public override string ToString()
+        public override string afficher()
         {
             return String.Format("{0} de {1} avec {2} pour une durée de {3}. {4} en stock.\nCommentaire :\n{5}",
                 this.title,

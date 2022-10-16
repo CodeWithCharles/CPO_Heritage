@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "MKE0nuGgiv7Dij3xVX4ZTIrDbF5e4lwVR/+k97tFU3NSzTqzTakzv183vgw5uBAPP05kapPPUs0wPnIvgp/gPw==",
+  "dgSpecHash": "WvTz+UA/osuRA+6zQfyzpS5gorTaDPWrMzYePHrqDKG8ib/PmaAjT6bQazOYZ77mINeJDr/Ssa3RHumBT9L6dg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Charles\\Desktop\\2SIO\\STJOSUP\\BLOC3\\C#\\CPO_Heritage\\CPO_Abstract_Perso\\CPO_Abstract_Perso.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\segac\\source\\repos\\Hakuraii\\CPO_Heritage\\CPO_Abstract_Perso\\CPO_Abstract_Perso.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\segac\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
   "logs": []
 }

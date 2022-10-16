@@ -6,6 +6,8 @@ namespace CPO_Heritage_1.Classes
 {
     public class Produit
     {
+        // Les attributs de la classe mère avec la portée "protected"
+        // pour être accessibles aux filles.
         #region Attributs
         protected string reference;
         protected string designation;
@@ -13,6 +15,7 @@ namespace CPO_Heritage_1.Classes
         #endregion
 
         #region Constructeurs
+        // Le constructeur de la classe mère produit
         public Produit(string reference, string designation, int prixVente)
         {
             this.reference = reference;

@@ -12,7 +12,8 @@ namespace CPO_Heritage_1.Classes
         #endregion
 
         #region Constructeurs
-        public ProduitAch(string reference, string designation, int prixVente, int numeroFournisseur, int prixAchat) : base(reference, designation, prixVente)
+        public ProduitAch(string reference, string designation, int prixVente, int numeroFournisseur, int prixAchat) 
+            : base(reference, designation, prixVente)
         {
             this.numeroFournisseur = numeroFournisseur;
             this.prixAchat = prixAchat;
@@ -46,7 +47,8 @@ namespace CPO_Heritage_1.Classes
         #region Méthodes
         public new string afficher()
         {
-            return base.afficher() + "\nFournisseur : " + this.numeroFournisseur + "\nPrix d'achat : " + this.prixAchat + "euros";
+            return base.afficher() + "\nFournisseur : " + this.numeroFournisseur 
+                + "\nPrix d'achat : " + this.prixAchat + "euros";
         }
         #endregion
     }

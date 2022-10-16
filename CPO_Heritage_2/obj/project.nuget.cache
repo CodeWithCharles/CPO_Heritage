@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "vVhoeo5QrCvJ2bEQlE1MAEgkWZ8h7KDHAhhawyaZIoyw7bjOO7qn2McJN/MBxXeMI/Hac+s0aRKufeqvC410zQ==",
+  "dgSpecHash": "kuHNohrIDOMLEN+CFDLxzwmRJTWkGxUOpKvCX2fB/QOC0dtmPW02F2H9hMfV2ecSG1noxT2p/nz+glj2acWihg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Charles\\Desktop\\2SIO\\STJOSUP\\BLOC3\\C#\\CPO_Heritage\\CPO_Heritage_2\\CPO_Heritage_Polymorphisme_Perso.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\segac\\source\\repos\\Hakuraii\\CPO_Heritage\\CPO_Heritage_2\\CPO_Heritage_Polymorphisme_Perso.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\segac\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
   "logs": []
 }

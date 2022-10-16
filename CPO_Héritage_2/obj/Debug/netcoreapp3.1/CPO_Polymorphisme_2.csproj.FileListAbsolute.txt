@@ -12,3 +12,17 @@ C:\Users\Charles\Desktop\2SIO\STJOSUP\BLOC3\C#\CPO_Heritage\CPO_Héritage_2\obj\
 C:\Users\Charles\Desktop\2SIO\STJOSUP\BLOC3\C#\CPO_Heritage\CPO_Héritage_2\obj\Debug\netcoreapp3.1\CPO_Polymorphisme_2.dll
 C:\Users\Charles\Desktop\2SIO\STJOSUP\BLOC3\C#\CPO_Heritage\CPO_Héritage_2\obj\Debug\netcoreapp3.1\CPO_Polymorphisme_2.pdb
 C:\Users\Charles\Desktop\2SIO\STJOSUP\BLOC3\C#\CPO_Heritage\CPO_Héritage_2\obj\Debug\netcoreapp3.1\CPO_Polymorphisme_2.genruntimeconfig.cache
+C:\Users\segac\source\repos\Hakuraii\CPO_Heritage\CPO_Héritage_2\bin\Debug\netcoreapp3.1\CPO_Polymorphisme_2.exe
+C:\Users\segac\source\repos\Hakuraii\CPO_Heritage\CPO_Héritage_2\bin\Debug\netcoreapp3.1\CPO_Polymorphisme_2.deps.json
+C:\Users\segac\source\repos\Hakuraii\CPO_Heritage\CPO_Héritage_2\bin\Debug\netcoreapp3.1\CPO_Polymorphisme_2.runtimeconfig.json
+C:\Users\segac\source\repos\Hakuraii\CPO_Heritage\CPO_Héritage_2\bin\Debug\netcoreapp3.1\CPO_Polymorphisme_2.runtimeconfig.dev.json
+C:\Users\segac\source\repos\Hakuraii\CPO_Heritage\CPO_Héritage_2\bin\Debug\netcoreapp3.1\CPO_Polymorphisme_2.dll
+C:\Users\segac\source\repos\Hakuraii\CPO_Heritage\CPO_Héritage_2\bin\Debug\netcoreapp3.1\CPO_Polymorphisme_2.pdb
+C:\Users\segac\source\repos\Hakuraii\CPO_Heritage\CPO_Héritage_2\obj\Debug\netcoreapp3.1\CPO_Polymorphisme_2.csproj.AssemblyReference.cache
+C:\Users\segac\source\repos\Hakuraii\CPO_Heritage\CPO_Héritage_2\obj\Debug\netcoreapp3.1\CPO_Polymorphisme_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\segac\source\repos\Hakuraii\CPO_Heritage\CPO_Héritage_2\obj\Debug\netcoreapp3.1\CPO_Polymorphisme_2.AssemblyInfoInputs.cache
+C:\Users\segac\source\repos\Hakuraii\CPO_Heritage\CPO_Héritage_2\obj\Debug\netcoreapp3.1\CPO_Polymorphisme_2.AssemblyInfo.cs
+C:\Users\segac\source\repos\Hakuraii\CPO_Heritage\CPO_Héritage_2\obj\Debug\netcoreapp3.1\CPO_Polymorphisme_2.csproj.CoreCompileInputs.cache
+C:\Users\segac\source\repos\Hakuraii\CPO_Heritage\CPO_Héritage_2\obj\Debug\netcoreapp3.1\CPO_Polymorphisme_2.dll
+C:\Users\segac\source\repos\Hakuraii\CPO_Heritage\CPO_Héritage_2\obj\Debug\netcoreapp3.1\CPO_Polymorphisme_2.pdb
+C:\Users\segac\source\repos\Hakuraii\CPO_Heritage\CPO_Héritage_2\obj\Debug\netcoreapp3.1\CPO_Polymorphisme_2.genruntimeconfig.cache

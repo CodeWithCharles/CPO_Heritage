@@ -13,7 +13,8 @@ namespace CPO_Heritage_1.Classes
         #endregion
 
         #region Constructeurs
-        public ProduitFab(string reference, string designation, int prixVente, int numAtelierFabrication, int nbHeuresFabrication, int coutMatieresPremieres) : base(reference, designation, prixVente)
+        public ProduitFab(string reference, string designation, int prixVente, int numAtelierFabrication, int nbHeuresFabrication, int coutMatieresPremieres)
+            : base(reference, designation, prixVente)
         {
             this.numAtelierFabrication = numAtelierFabrication;
             this.nbHeuresFabrication = nbHeuresFabrication;
@@ -58,7 +59,9 @@ namespace CPO_Heritage_1.Classes
         #region Méthodes
         public new string afficher()
         {
-            return base.afficher() + "\nAtelier de fabrication : " + this.numAtelierFabrication + "\nNombre d'heures de fabrication : " + this.nbHeuresFabrication + " - Prix des matières premières : " + this.coutMatieresPremieres;
+            return base.afficher() + "\nAtelier de fabrication : " + this.numAtelierFabrication 
+                + "\nNombre d'heures de fabrication : " + this.nbHeuresFabrication
+                + " - Prix des matières premières : " + this.coutMatieresPremieres;
         }
         #endregion
     }
