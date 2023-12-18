@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.8" xml:lang="en-US">
+  <compounddef id="class_c_p_o___heritage__1_1_1_program" kind="class" language="C#" prot="public">
+    <compoundname>CPO_Heritage_1::Program</compoundname>
+    <sectiondef kind="private-static-func">
+      <memberdef kind="function" id="class_c_p_o___heritage__1_1_1_program_1a1a15c940a97189cddc93c0e8cd0c60a7" prot="private" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>static void CPO_Heritage_1.Program.Main</definition>
+        <argsstring>(string[] args)</argsstring>
+        <name>Main</name>
+        <qualifiedname>CPO_Heritage_1.Program.Main</qualifiedname>
+        <param>
+          <type>string[]</type>
+          <declname>args</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/St Jo Sup/Documents/CPO/CPO_Heritage/CPO_Heritage_1/Program.cs" line="8" column="21" bodyfile="C:/Users/St Jo Sup/Documents/CPO/CPO_Heritage/CPO_Heritage_1/Program.cs" bodystart="8" bodyend="17"/>
+      </memberdef>
+    </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/St Jo Sup/Documents/CPO/CPO_Heritage/CPO_Heritage_1/Program.cs" line="6" column="5" bodyfile="C:/Users/St Jo Sup/Documents/CPO/CPO_Heritage/CPO_Heritage_1/Program.cs" bodystart="7" bodyend="18"/>
+    <listofallmembers>
+      <member refid="class_c_p_o___heritage__1_1_1_program_1a1a15c940a97189cddc93c0e8cd0c60a7" prot="private" virt="non-virtual"><scope>CPO_Heritage_1::Program</scope><name>Main</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

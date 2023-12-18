@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.8" xml:lang="en-US">
+  <compounddef id="namespace_c_p_o___heritage__1_1_1_classes" kind="namespace" language="C#">
+    <compoundname>CPO_Heritage_1::Classes</compoundname>
+    <innerclass refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit" prot="public">CPO_Heritage_1::Classes::Produit</innerclass>
+    <innerclass refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit_ach" prot="public">CPO_Heritage_1::Classes::ProduitAch</innerclass>
+    <innerclass refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit_fab" prot="public">CPO_Heritage_1::Classes::ProduitFab</innerclass>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/St Jo Sup/Documents/CPO/CPO_Heritage/CPO_Heritage_1/Classes/Produit.cs" line="5" column="1"/>
+  </compounddef>
+</doxygen>

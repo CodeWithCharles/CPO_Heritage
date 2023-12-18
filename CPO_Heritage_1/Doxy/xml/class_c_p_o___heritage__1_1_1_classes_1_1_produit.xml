@@ -1,0 +1,308 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.8" xml:lang="en-US">
+  <compounddef id="class_c_p_o___heritage__1_1_1_classes_1_1_produit" kind="class" language="C#" prot="public">
+    <compoundname>CPO_Heritage_1::Classes::Produit</compoundname>
+    <derivedcompoundref refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit_ach" prot="public" virt="non-virtual">CPO_Heritage_1.Classes.ProduitAch</derivedcompoundref>
+    <derivedcompoundref refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit_fab" prot="public" virt="non-virtual">CPO_Heritage_1.Classes.ProduitFab</derivedcompoundref>
+    <sectiondef kind="protected-attrib">
+      <memberdef kind="variable" id="class_c_p_o___heritage__1_1_1_classes_1_1_produit_1ab7985a471712842b87a94ddb93f112ba" prot="protected" static="no" mutable="no">
+        <type>string</type>
+        <definition>string CPO_Heritage_1.Classes.Produit.reference</definition>
+        <argsstring></argsstring>
+        <name>reference</name>
+        <qualifiedname>CPO_Heritage_1.Classes.Produit.reference</qualifiedname>
+        <briefdescription>
+<para>La référence du produit. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/St Jo Sup/Documents/CPO/CPO_Heritage/CPO_Heritage_1/Classes/Produit.cs" line="18" column="26" bodyfile="C:/Users/St Jo Sup/Documents/CPO/CPO_Heritage/CPO_Heritage_1/Classes/Produit.cs" bodystart="18" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_c_p_o___heritage__1_1_1_classes_1_1_produit_1a5c74fbb9fc37aeac434dd2fce544174b" prot="protected" static="no" mutable="no">
+        <type>string</type>
+        <definition>string CPO_Heritage_1.Classes.Produit.designation</definition>
+        <argsstring></argsstring>
+        <name>designation</name>
+        <qualifiedname>CPO_Heritage_1.Classes.Produit.designation</qualifiedname>
+        <briefdescription>
+<para>La désignation du produit. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/St Jo Sup/Documents/CPO/CPO_Heritage/CPO_Heritage_1/Classes/Produit.cs" line="22" column="26" bodyfile="C:/Users/St Jo Sup/Documents/CPO/CPO_Heritage/CPO_Heritage_1/Classes/Produit.cs" bodystart="22" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_c_p_o___heritage__1_1_1_classes_1_1_produit_1a0304e34cf5e7a7efdbdc61de47f27508" prot="protected" static="no" mutable="no">
+        <type>int</type>
+        <definition>int CPO_Heritage_1.Classes.Produit.prixVente</definition>
+        <argsstring></argsstring>
+        <name>prixVente</name>
+        <qualifiedname>CPO_Heritage_1.Classes.Produit.prixVente</qualifiedname>
+        <briefdescription>
+<para>Le prix de vente du produit. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/St Jo Sup/Documents/CPO/CPO_Heritage/CPO_Heritage_1/Classes/Produit.cs" line="26" column="23" bodyfile="C:/Users/St Jo Sup/Documents/CPO/CPO_Heritage/CPO_Heritage_1/Classes/Produit.cs" bodystart="26" bodyend="-1"/>
+      </memberdef>
+    </sectiondef>
+    <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_c_p_o___heritage__1_1_1_classes_1_1_produit_1ac3c9e74f8bdb21e2533a689e97349096" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>CPO_Heritage_1.Classes.Produit.Produit</definition>
+        <argsstring>(string reference, string designation, int prixVente)</argsstring>
+        <name>Produit</name>
+        <qualifiedname>CPO_Heritage_1.Classes.Produit.Produit</qualifiedname>
+        <param>
+          <type>string</type>
+          <declname>reference</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>designation</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>prixVente</declname>
+        </param>
+        <briefdescription>
+<para>Constructeur de la classe produit. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>reference</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>La référence du produit</para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>designation</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>La désignation du produit</para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>prixVente</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Le prix de vente du produit</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/St Jo Sup/Documents/CPO/CPO_Heritage/CPO_Heritage_1/Classes/Produit.cs" line="36" column="16" bodyfile="C:/Users/St Jo Sup/Documents/CPO/CPO_Heritage/CPO_Heritage_1/Classes/Produit.cs" bodystart="36" bodyend="41"/>
+      </memberdef>
+      <memberdef kind="function" id="class_c_p_o___heritage__1_1_1_classes_1_1_produit_1a18355bc89dfdc251bc6c18521ca001eb" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>string</type>
+        <definition>string CPO_Heritage_1.Classes.Produit.getReference</definition>
+        <argsstring>()</argsstring>
+        <name>getReference</name>
+        <qualifiedname>CPO_Heritage_1.Classes.Produit.getReference</qualifiedname>
+        <briefdescription>
+<para>Récupère la référence du produit. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="return"><para>La référence du produit</para>
+</simplesect>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/St Jo Sup/Documents/CPO/CPO_Heritage/CPO_Heritage_1/Classes/Produit.cs" line="49" column="23" bodyfile="C:/Users/St Jo Sup/Documents/CPO/CPO_Heritage/CPO_Heritage_1/Classes/Produit.cs" bodystart="49" bodyend="52"/>
+      </memberdef>
+      <memberdef kind="function" id="class_c_p_o___heritage__1_1_1_classes_1_1_produit_1a6710452052f5fd1fd65141b5d0be0af2" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>string</type>
+        <definition>string CPO_Heritage_1.Classes.Produit.getDesignation</definition>
+        <argsstring>()</argsstring>
+        <name>getDesignation</name>
+        <qualifiedname>CPO_Heritage_1.Classes.Produit.getDesignation</qualifiedname>
+        <briefdescription>
+<para>Récupère la désignation du produit. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="return"><para>La désignation du produit</para>
+</simplesect>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/St Jo Sup/Documents/CPO/CPO_Heritage/CPO_Heritage_1/Classes/Produit.cs" line="58" column="23" bodyfile="C:/Users/St Jo Sup/Documents/CPO/CPO_Heritage/CPO_Heritage_1/Classes/Produit.cs" bodystart="58" bodyend="61"/>
+      </memberdef>
+      <memberdef kind="function" id="class_c_p_o___heritage__1_1_1_classes_1_1_produit_1a6bfd7249e53f72967e20e6bf959a2a21" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>int CPO_Heritage_1.Classes.Produit.getPrixVente</definition>
+        <argsstring>()</argsstring>
+        <name>getPrixVente</name>
+        <qualifiedname>CPO_Heritage_1.Classes.Produit.getPrixVente</qualifiedname>
+        <briefdescription>
+<para>Récupère le prix de vente du produit. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="return"><para>Le prix de vente du produit</para>
+</simplesect>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/St Jo Sup/Documents/CPO/CPO_Heritage/CPO_Heritage_1/Classes/Produit.cs" line="67" column="20" bodyfile="C:/Users/St Jo Sup/Documents/CPO/CPO_Heritage/CPO_Heritage_1/Classes/Produit.cs" bodystart="67" bodyend="70"/>
+      </memberdef>
+      <memberdef kind="function" id="class_c_p_o___heritage__1_1_1_classes_1_1_produit_1a9c2a3fcf5b614add81f07b9b76d8d342" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>string</type>
+        <definition>string CPO_Heritage_1.Classes.Produit.afficher</definition>
+        <argsstring>()</argsstring>
+        <name>afficher</name>
+        <qualifiedname>CPO_Heritage_1.Classes.Produit.afficher</qualifiedname>
+        <briefdescription>
+<para>Permet de récupérer une chaîne de caractères définissant le produit. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="return"><para>Une chaîne de aractères.</para>
+</simplesect>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/St Jo Sup/Documents/CPO/CPO_Heritage/CPO_Heritage_1/Classes/Produit.cs" line="108" column="23" bodyfile="C:/Users/St Jo Sup/Documents/CPO/CPO_Heritage/CPO_Heritage_1/Classes/Produit.cs" bodystart="108" bodyend="111"/>
+      </memberdef>
+    </sectiondef>
+    <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_c_p_o___heritage__1_1_1_classes_1_1_produit_1adb7fab4ed7072e8ddb42d093914fcdaa" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void CPO_Heritage_1.Classes.Produit.setReference</definition>
+        <argsstring>(string reference)</argsstring>
+        <name>setReference</name>
+        <qualifiedname>CPO_Heritage_1.Classes.Produit.setReference</qualifiedname>
+        <param>
+          <type>string</type>
+          <declname>reference</declname>
+        </param>
+        <briefdescription>
+<para>Défini la référence du produit. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>reference</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>La nouvelle référence</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/St Jo Sup/Documents/CPO/CPO_Heritage/CPO_Heritage_1/Classes/Produit.cs" line="78" column="22" bodyfile="C:/Users/St Jo Sup/Documents/CPO/CPO_Heritage/CPO_Heritage_1/Classes/Produit.cs" bodystart="78" bodyend="81"/>
+      </memberdef>
+      <memberdef kind="function" id="class_c_p_o___heritage__1_1_1_classes_1_1_produit_1a69f8328cb4e4f3caacd169879b62d7b3" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void CPO_Heritage_1.Classes.Produit.setDesignation</definition>
+        <argsstring>(string designation)</argsstring>
+        <name>setDesignation</name>
+        <qualifiedname>CPO_Heritage_1.Classes.Produit.setDesignation</qualifiedname>
+        <param>
+          <type>string</type>
+          <declname>designation</declname>
+        </param>
+        <briefdescription>
+<para>Défini la désignation du produit. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>designation</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>La nouvelle désignation</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/St Jo Sup/Documents/CPO/CPO_Heritage/CPO_Heritage_1/Classes/Produit.cs" line="87" column="22" bodyfile="C:/Users/St Jo Sup/Documents/CPO/CPO_Heritage/CPO_Heritage_1/Classes/Produit.cs" bodystart="87" bodyend="90"/>
+      </memberdef>
+      <memberdef kind="function" id="class_c_p_o___heritage__1_1_1_classes_1_1_produit_1adec61826ba91cd567e1e756a7f6959d9" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void CPO_Heritage_1.Classes.Produit.setPrixVente</definition>
+        <argsstring>(int prixVente)</argsstring>
+        <name>setPrixVente</name>
+        <qualifiedname>CPO_Heritage_1.Classes.Produit.setPrixVente</qualifiedname>
+        <param>
+          <type>int</type>
+          <declname>prixVente</declname>
+        </param>
+        <briefdescription>
+<para>Défini le prix de vente du produit. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>prixVente</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Le nouveau prix de vente</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/St Jo Sup/Documents/CPO/CPO_Heritage/CPO_Heritage_1/Classes/Produit.cs" line="96" column="22" bodyfile="C:/Users/St Jo Sup/Documents/CPO/CPO_Heritage/CPO_Heritage_1/Classes/Produit.cs" bodystart="96" bodyend="99"/>
+      </memberdef>
+    </sectiondef>
+    <briefdescription>
+<para>Classe mère produit. </para>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>CPO_Heritage_1.Classes.Produit</label>
+        <link refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit"/>
+      </node>
+      <node id="2">
+        <label>CPO_Heritage_1.Classes.ProduitAch</label>
+        <link refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit_ach"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>CPO_Heritage_1.Classes.ProduitFab</label>
+        <link refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit_fab"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <location file="C:/Users/St Jo Sup/Documents/CPO/CPO_Heritage/CPO_Heritage_1/Classes/Produit.cs" line="10" column="11" bodyfile="C:/Users/St Jo Sup/Documents/CPO/CPO_Heritage/CPO_Heritage_1/Classes/Produit.cs" bodystart="11" bodyend="113"/>
+    <listofallmembers>
+      <member refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit_1a9c2a3fcf5b614add81f07b9b76d8d342" prot="public" virt="non-virtual"><scope>CPO_Heritage_1::Classes::Produit</scope><name>afficher</name></member>
+      <member refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit_1a5c74fbb9fc37aeac434dd2fce544174b" prot="protected" virt="non-virtual"><scope>CPO_Heritage_1::Classes::Produit</scope><name>designation</name></member>
+      <member refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit_1a6710452052f5fd1fd65141b5d0be0af2" prot="public" virt="non-virtual"><scope>CPO_Heritage_1::Classes::Produit</scope><name>getDesignation</name></member>
+      <member refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit_1a6bfd7249e53f72967e20e6bf959a2a21" prot="public" virt="non-virtual"><scope>CPO_Heritage_1::Classes::Produit</scope><name>getPrixVente</name></member>
+      <member refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit_1a18355bc89dfdc251bc6c18521ca001eb" prot="public" virt="non-virtual"><scope>CPO_Heritage_1::Classes::Produit</scope><name>getReference</name></member>
+      <member refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit_1a0304e34cf5e7a7efdbdc61de47f27508" prot="protected" virt="non-virtual"><scope>CPO_Heritage_1::Classes::Produit</scope><name>prixVente</name></member>
+      <member refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit_1ac3c9e74f8bdb21e2533a689e97349096" prot="public" virt="non-virtual"><scope>CPO_Heritage_1::Classes::Produit</scope><name>Produit</name></member>
+      <member refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit_1ab7985a471712842b87a94ddb93f112ba" prot="protected" virt="non-virtual"><scope>CPO_Heritage_1::Classes::Produit</scope><name>reference</name></member>
+      <member refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit_1a69f8328cb4e4f3caacd169879b62d7b3" prot="private" virt="non-virtual"><scope>CPO_Heritage_1::Classes::Produit</scope><name>setDesignation</name></member>
+      <member refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit_1adec61826ba91cd567e1e756a7f6959d9" prot="private" virt="non-virtual"><scope>CPO_Heritage_1::Classes::Produit</scope><name>setPrixVente</name></member>
+      <member refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit_1adb7fab4ed7072e8ddb42d093914fcdaa" prot="private" virt="non-virtual"><scope>CPO_Heritage_1::Classes::Produit</scope><name>setReference</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

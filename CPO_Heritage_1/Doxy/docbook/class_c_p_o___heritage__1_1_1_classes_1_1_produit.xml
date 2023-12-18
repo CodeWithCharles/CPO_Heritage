@@ -1,0 +1,174 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_class_c_p_o___heritage__1_1_1_classes_1_1_produit" xml:lang="en-US">
+<title>CPO_Heritage_1.Classes.Produit Class Reference</title>
+<indexterm><primary>CPO_Heritage_1.Classes.Produit</primary></indexterm>
+<para>
+
+<para>Classe mère produit. </para>
+ 
+</para>
+<para>Inheritance diagram for CPO_Heritage_1.Classes.Produit:    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="class_c_p_o___heritage__1_1_1_classes_1_1_produit.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+<simplesect>
+    <title>Public Member Functions    </title>
+        <itemizedlist>
+            <listitem><para><link linkend="_class_c_p_o___heritage__1_1_1_classes_1_1_produit_1ac3c9e74f8bdb21e2533a689e97349096">Produit</link> (string <link linkend="_class_c_p_o___heritage__1_1_1_classes_1_1_produit_1ab7985a471712842b87a94ddb93f112ba">reference</link>, string <link linkend="_class_c_p_o___heritage__1_1_1_classes_1_1_produit_1a5c74fbb9fc37aeac434dd2fce544174b">designation</link>, int <link linkend="_class_c_p_o___heritage__1_1_1_classes_1_1_produit_1a0304e34cf5e7a7efdbdc61de47f27508">prixVente</link>)</para>
+
+<para>Constructeur de la classe produit. </para>
+</listitem>
+            <listitem><para>string <link linkend="_class_c_p_o___heritage__1_1_1_classes_1_1_produit_1a18355bc89dfdc251bc6c18521ca001eb">getReference</link> ()</para>
+
+<para>Récupère la référence du produit. </para>
+</listitem>
+            <listitem><para>string <link linkend="_class_c_p_o___heritage__1_1_1_classes_1_1_produit_1a6710452052f5fd1fd65141b5d0be0af2">getDesignation</link> ()</para>
+
+<para>Récupère la désignation du produit. </para>
+</listitem>
+            <listitem><para>int <link linkend="_class_c_p_o___heritage__1_1_1_classes_1_1_produit_1a6bfd7249e53f72967e20e6bf959a2a21">getPrixVente</link> ()</para>
+
+<para>Récupère le prix de vente du produit. </para>
+</listitem>
+            <listitem><para>string <link linkend="_class_c_p_o___heritage__1_1_1_classes_1_1_produit_1a9c2a3fcf5b614add81f07b9b76d8d342">afficher</link> ()</para>
+
+<para>Permet de récupérer une chaîne de caractères définissant le produit. </para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<simplesect>
+    <title>Protected Attributes    </title>
+        <itemizedlist>
+            <listitem><para><anchor xml:id="_class_c_p_o___heritage__1_1_1_classes_1_1_produit_1ab7985a471712842b87a94ddb93f112ba"/>string <emphasis role="strong">reference</emphasis></para>
+
+<para>La référence du produit. </para>
+</listitem>
+            <listitem><para><anchor xml:id="_class_c_p_o___heritage__1_1_1_classes_1_1_produit_1a5c74fbb9fc37aeac434dd2fce544174b"/>string <emphasis role="strong">designation</emphasis></para>
+
+<para>La désignation du produit. </para>
+</listitem>
+            <listitem><para><anchor xml:id="_class_c_p_o___heritage__1_1_1_classes_1_1_produit_1a0304e34cf5e7a7efdbdc61de47f27508"/>int <emphasis role="strong">prixVente</emphasis></para>
+
+<para>Le prix de vente du produit. </para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Detailed Description</title>
+
+<para>Classe mère produit. </para>
+</section>
+<section>
+<title>Constructor &amp; Destructor Documentation</title>
+<anchor xml:id="_class_c_p_o___heritage__1_1_1_classes_1_1_produit_1ac3c9e74f8bdb21e2533a689e97349096"/><section>
+    <title>Produit()</title>
+<indexterm><primary>Produit</primary><secondary>CPO_Heritage_1.Classes.Produit</secondary></indexterm>
+<indexterm><primary>CPO_Heritage_1.Classes.Produit</primary><secondary>Produit</secondary></indexterm>
+<para><computeroutput>CPO_Heritage_1.Classes.Produit.Produit (string reference, string designation, int prixVente)<computeroutput>[inline]</computeroutput></computeroutput></para><para>
+
+<para>Constructeur de la classe produit. </para>
+</para>
+
+<para>
+                <formalpara>
+                    <title>
+Parameters</title>
+                    <para>
+                    <table frame="all">
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+<entry>reference</entry><entry>
+<para>La référence du produit</para>
+</entry>
+                            </row>
+                            <row>
+<entry>designation</entry><entry>
+<para>La désignation du produit</para>
+</entry>
+                            </row>
+                            <row>
+<entry>prixVente</entry><entry>
+<para>Le prix de vente du produit</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                    </para>
+                </formalpara>
+                </para>
+</section>
+</section>
+<section>
+<title>Member Function Documentation</title>
+<anchor xml:id="_class_c_p_o___heritage__1_1_1_classes_1_1_produit_1a9c2a3fcf5b614add81f07b9b76d8d342"/><section>
+    <title>afficher()</title>
+<indexterm><primary>afficher</primary><secondary>CPO_Heritage_1.Classes.Produit</secondary></indexterm>
+<indexterm><primary>CPO_Heritage_1.Classes.Produit</primary><secondary>afficher</secondary></indexterm>
+<para><computeroutput>string CPO_Heritage_1.Classes.Produit.afficher ( )<computeroutput>[inline]</computeroutput></computeroutput></para><para>
+
+<para>Permet de récupérer une chaîne de caractères définissant le produit. </para>
+</para>
+
+<para><formalpara><title>Returns</title>
+
+<para>Une chaîne de aractères.</para>
+</formalpara>
+</para>
+</section>
+<anchor xml:id="_class_c_p_o___heritage__1_1_1_classes_1_1_produit_1a6710452052f5fd1fd65141b5d0be0af2"/><section>
+    <title>getDesignation()</title>
+<indexterm><primary>getDesignation</primary><secondary>CPO_Heritage_1.Classes.Produit</secondary></indexterm>
+<indexterm><primary>CPO_Heritage_1.Classes.Produit</primary><secondary>getDesignation</secondary></indexterm>
+<para><computeroutput>string CPO_Heritage_1.Classes.Produit.getDesignation ( )<computeroutput>[inline]</computeroutput></computeroutput></para><para>
+
+<para>Récupère la désignation du produit. </para>
+</para>
+
+<para><formalpara><title>Returns</title>
+
+<para>La désignation du produit</para>
+</formalpara>
+</para>
+</section>
+<anchor xml:id="_class_c_p_o___heritage__1_1_1_classes_1_1_produit_1a6bfd7249e53f72967e20e6bf959a2a21"/><section>
+    <title>getPrixVente()</title>
+<indexterm><primary>getPrixVente</primary><secondary>CPO_Heritage_1.Classes.Produit</secondary></indexterm>
+<indexterm><primary>CPO_Heritage_1.Classes.Produit</primary><secondary>getPrixVente</secondary></indexterm>
+<para><computeroutput>int CPO_Heritage_1.Classes.Produit.getPrixVente ( )<computeroutput>[inline]</computeroutput></computeroutput></para><para>
+
+<para>Récupère le prix de vente du produit. </para>
+</para>
+
+<para><formalpara><title>Returns</title>
+
+<para>Le prix de vente du produit</para>
+</formalpara>
+</para>
+</section>
+<anchor xml:id="_class_c_p_o___heritage__1_1_1_classes_1_1_produit_1a18355bc89dfdc251bc6c18521ca001eb"/><section>
+    <title>getReference()</title>
+<indexterm><primary>getReference</primary><secondary>CPO_Heritage_1.Classes.Produit</secondary></indexterm>
+<indexterm><primary>CPO_Heritage_1.Classes.Produit</primary><secondary>getReference</secondary></indexterm>
+<para><computeroutput>string CPO_Heritage_1.Classes.Produit.getReference ( )<computeroutput>[inline]</computeroutput></computeroutput></para><para>
+
+<para>Récupère la référence du produit. </para>
+</para>
+
+<para><formalpara><title>Returns</title>
+
+<para>La référence du produit</para>
+</formalpara>
+</para>
+</section>
+<para>
+The documentation for this class was generated from the following file:</para>
+C:/Users/St Jo Sup/Documents/CPO/CPO_Heritage/CPO_Heritage_1/Classes/Produit.cs</section>
+</section>

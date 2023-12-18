@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygenindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="index.xsd" version="1.9.8" xml:lang="en-US">
+  <compound refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit" kind="class"><name>CPO_Heritage_1::Classes::Produit</name>
+    <member refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit_1ab7985a471712842b87a94ddb93f112ba" kind="variable"><name>reference</name></member>
+    <member refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit_1a5c74fbb9fc37aeac434dd2fce544174b" kind="variable"><name>designation</name></member>
+    <member refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit_1a0304e34cf5e7a7efdbdc61de47f27508" kind="variable"><name>prixVente</name></member>
+    <member refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit_1ac3c9e74f8bdb21e2533a689e97349096" kind="function"><name>Produit</name></member>
+    <member refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit_1a18355bc89dfdc251bc6c18521ca001eb" kind="function"><name>getReference</name></member>
+    <member refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit_1a6710452052f5fd1fd65141b5d0be0af2" kind="function"><name>getDesignation</name></member>
+    <member refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit_1a6bfd7249e53f72967e20e6bf959a2a21" kind="function"><name>getPrixVente</name></member>
+    <member refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit_1a9c2a3fcf5b614add81f07b9b76d8d342" kind="function"><name>afficher</name></member>
+    <member refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit_1adb7fab4ed7072e8ddb42d093914fcdaa" kind="function"><name>setReference</name></member>
+    <member refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit_1a69f8328cb4e4f3caacd169879b62d7b3" kind="function"><name>setDesignation</name></member>
+    <member refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit_1adec61826ba91cd567e1e756a7f6959d9" kind="function"><name>setPrixVente</name></member>
+  </compound>
+  <compound refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit_ach" kind="class"><name>CPO_Heritage_1::Classes::ProduitAch</name>
+    <member refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit_ach_1a97d2dbae86b84ac77ba6203f6155c55d" kind="variable"><name>numeroFournisseur</name></member>
+    <member refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit_ach_1a6fcd942e79e53abc3324d248790dbfe1" kind="variable"><name>prixAchat</name></member>
+    <member refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit_ach_1ae7ccaa9280a82d008643cdd3f7d9a061" kind="function"><name>ProduitAch</name></member>
+    <member refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit_ach_1a32a51e52f7d5a2f159e53ae7aa5303d6" kind="function"><name>getNumeroFournisseur</name></member>
+    <member refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit_ach_1aed97f29b93b7e14ea26d6c28188bd7c4" kind="function"><name>getPrixAchat</name></member>
+    <member refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit_ach_1a9c6e33758e8df64aceb852c7cd4097ee" kind="function"><name>afficher</name></member>
+    <member refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit_ach_1a50f1771aab075795ef9e76b661f7248e" kind="function"><name>setNumeroFournisseur</name></member>
+    <member refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit_ach_1a21cd890ba0c994c8038d98a6cb02a837" kind="function"><name>setPrixAchat</name></member>
+  </compound>
+  <compound refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit_fab" kind="class"><name>CPO_Heritage_1::Classes::ProduitFab</name>
+    <member refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit_fab_1aceffd8315b36419836367a391ed5cd2e" kind="variable"><name>numAtelierFabrication</name></member>
+    <member refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit_fab_1aba8dc2902af6b4fc33b67bfcdb66522e" kind="variable"><name>nbHeuresFabrication</name></member>
+    <member refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit_fab_1a47f81d84867d2d430bab213c4476f8a3" kind="variable"><name>coutMatieresPremieres</name></member>
+    <member refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit_fab_1aac867633a9dd1190887ec2c1b22afcbf" kind="function"><name>ProduitFab</name></member>
+    <member refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit_fab_1a1fd0b0d28cab14638c6234b4fd8b402d" kind="function"><name>getNumAtelierFabrication</name></member>
+    <member refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit_fab_1af8a26891be9a3c33d6ccdee08602342a" kind="function"><name>getNbHeuresFabrication</name></member>
+    <member refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit_fab_1a22e1657135f647fc05dd790a60e4a5bd" kind="function"><name>getCoutMatieresPremieres</name></member>
+    <member refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit_fab_1ab1e96ec46d9c92dfce51e57d7ec6c653" kind="function"><name>afficher</name></member>
+    <member refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit_fab_1a59e264707062810f168195515e800fae" kind="function"><name>setNumAtelierFabrication</name></member>
+    <member refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit_fab_1a32a4c13260de9f1aa9729d1cbb1e19e4" kind="function"><name>setNbHeuresFabrication</name></member>
+    <member refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit_fab_1a8dd60121dbe7d4b1ea319a08b85c3287" kind="function"><name>setCoutMatieresPremieres</name></member>
+  </compound>
+  <compound refid="class_c_p_o___heritage__1_1_1_program" kind="class"><name>CPO_Heritage_1::Program</name>
+    <member refid="class_c_p_o___heritage__1_1_1_program_1a1a15c940a97189cddc93c0e8cd0c60a7" kind="function"><name>Main</name></member>
+  </compound>
+  <compound refid="namespace_c_p_o___heritage__1" kind="namespace"><name>CPO_Heritage_1</name>
+  </compound>
+  <compound refid="namespace_c_p_o___heritage__1_1_1_classes" kind="namespace"><name>CPO_Heritage_1::Classes</name>
+  </compound>
+  <compound refid="namespace_system" kind="namespace"><name>System</name>
+  </compound>
+  <compound refid="namespace_system_1_1_collections_1_1_generic" kind="namespace"><name>System::Collections::Generic</name>
+  </compound>
+  <compound refid="namespace_system_1_1_reflection" kind="namespace"><name>System::Reflection</name>
+  </compound>
+  <compound refid="namespace_system_1_1_text" kind="namespace"><name>System::Text</name>
+  </compound>
+  <compound refid="_produit_8cs" kind="file"><name>Produit.cs</name>
+  </compound>
+  <compound refid="_produit_ach_8cs" kind="file"><name>ProduitAch.cs</name>
+  </compound>
+  <compound refid="_produit_fab_8cs" kind="file"><name>ProduitFab.cs</name>
+  </compound>
+  <compound refid="_8_n_e_t_core_app_00_version_0av3_81_8_assembly_attributes_8cs" kind="file"><name>.NETCoreApp,Version=v3.1.AssemblyAttributes.cs</name>
+  </compound>
+  <compound refid="_c_p_o___heritage__1_8_assembly_info_8cs" kind="file"><name>CPO_Heritage_1.AssemblyInfo.cs</name>
+  </compound>
+  <compound refid="_program_8cs" kind="file"><name>Program.cs</name>
+  </compound>
+  <compound refid="dir_0c68614ac8d8401edbf4146ded722294" kind="dir"><name>C:/Users/St Jo Sup/Documents/CPO/CPO_Heritage/CPO_Heritage_1/Classes</name>
+  </compound>
+  <compound refid="dir_a71c3b2ad23b9ff58220dd012d201987" kind="dir"><name>C:/Users/St Jo Sup/Documents/CPO/CPO_Heritage/CPO_Heritage_1/obj/Debug</name>
+  </compound>
+  <compound refid="dir_2c96edb042fae57dc7a0aa62cecc9bd4" kind="dir"><name>C:/Users/St Jo Sup/Documents/CPO/CPO_Heritage/CPO_Heritage_1/obj/Debug/netcoreapp3.1</name>
+  </compound>
+  <compound refid="dir_43724e81dd40e09f32417973865cdd64" kind="dir"><name>C:/Users/St Jo Sup/Documents/CPO/CPO_Heritage/CPO_Heritage_1/obj</name>
+  </compound>
+</doxygenindex>

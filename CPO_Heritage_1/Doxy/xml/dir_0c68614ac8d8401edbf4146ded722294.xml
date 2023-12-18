@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.8" xml:lang="en-US">
+  <compounddef id="dir_0c68614ac8d8401edbf4146ded722294" kind="dir">
+    <compoundname>C:/Users/St Jo Sup/Documents/CPO/CPO_Heritage/CPO_Heritage_1/Classes</compoundname>
+    <innerfile refid="_produit_8cs">Produit.cs</innerfile>
+    <innerfile refid="_produit_ach_8cs">ProduitAch.cs</innerfile>
+    <innerfile refid="_produit_fab_8cs">ProduitFab.cs</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/St Jo Sup/Documents/CPO/CPO_Heritage/CPO_Heritage_1/Classes/"/>
+  </compounddef>
+</doxygen>

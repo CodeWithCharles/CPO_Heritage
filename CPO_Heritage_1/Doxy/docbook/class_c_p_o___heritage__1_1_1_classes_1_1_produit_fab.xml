@@ -1,0 +1,192 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_class_c_p_o___heritage__1_1_1_classes_1_1_produit_fab" xml:lang="en-US">
+<title>CPO_Heritage_1.Classes.ProduitFab Class Reference</title>
+<indexterm><primary>CPO_Heritage_1.Classes.ProduitFab</primary></indexterm>
+<para>Inheritance diagram for CPO_Heritage_1.Classes.ProduitFab:    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="class_c_p_o___heritage__1_1_1_classes_1_1_produit_fab.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+<simplesect>
+    <title>Public Member Functions    </title>
+        <itemizedlist>
+            <listitem><para><link linkend="_class_c_p_o___heritage__1_1_1_classes_1_1_produit_fab_1aac867633a9dd1190887ec2c1b22afcbf">ProduitFab</link> (string <link linkend="_class_c_p_o___heritage__1_1_1_classes_1_1_produit_1ab7985a471712842b87a94ddb93f112ba">reference</link>, string <link linkend="_class_c_p_o___heritage__1_1_1_classes_1_1_produit_1a5c74fbb9fc37aeac434dd2fce544174b">designation</link>, int <link linkend="_class_c_p_o___heritage__1_1_1_classes_1_1_produit_1a0304e34cf5e7a7efdbdc61de47f27508">prixVente</link>, int numAtelierFabrication, int nbHeuresFabrication, int coutMatieresPremieres)</para>
+
+<para>Constructeur de la classe ProduitFab. </para>
+</listitem>
+            <listitem><para>int <link linkend="_class_c_p_o___heritage__1_1_1_classes_1_1_produit_fab_1a1fd0b0d28cab14638c6234b4fd8b402d">getNumAtelierFabrication</link> ()</para>
+
+<para>Récupère le numéro de l&apos;atelier de fabrication. </para>
+</listitem>
+            <listitem><para>int <link linkend="_class_c_p_o___heritage__1_1_1_classes_1_1_produit_fab_1af8a26891be9a3c33d6ccdee08602342a">getNbHeuresFabrication</link> ()</para>
+
+<para>Récupère le nombre d&apos;heure de fabrication. </para>
+</listitem>
+            <listitem><para>int <link linkend="_class_c_p_o___heritage__1_1_1_classes_1_1_produit_fab_1a22e1657135f647fc05dd790a60e4a5bd">getCoutMatieresPremieres</link> ()</para>
+
+<para>Récupère le coût des matières premières. </para>
+</listitem>
+            <listitem><para>new string <link linkend="_class_c_p_o___heritage__1_1_1_classes_1_1_produit_fab_1ab1e96ec46d9c92dfce51e57d7ec6c653">afficher</link> ()</para>
+
+<para><formalpara><title>See also</title>
+
+<para>Produit.afficher()</para>
+</formalpara>
+</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+Public Member Functions inherited from <link linkend="_class_c_p_o___heritage__1_1_1_classes_1_1_produit">CPO_Heritage_1.Classes.Produit</link>        <itemizedlist>
+            <listitem><para><link linkend="_class_c_p_o___heritage__1_1_1_classes_1_1_produit_1ac3c9e74f8bdb21e2533a689e97349096">Produit</link> (string <link linkend="_class_c_p_o___heritage__1_1_1_classes_1_1_produit_1ab7985a471712842b87a94ddb93f112ba">reference</link>, string <link linkend="_class_c_p_o___heritage__1_1_1_classes_1_1_produit_1a5c74fbb9fc37aeac434dd2fce544174b">designation</link>, int <link linkend="_class_c_p_o___heritage__1_1_1_classes_1_1_produit_1a0304e34cf5e7a7efdbdc61de47f27508">prixVente</link>)</para>
+
+<para>Constructeur de la classe produit. </para>
+</listitem>
+            <listitem><para>string <link linkend="_class_c_p_o___heritage__1_1_1_classes_1_1_produit_1a18355bc89dfdc251bc6c18521ca001eb">getReference</link> ()</para>
+
+<para>Récupère la référence du produit. </para>
+</listitem>
+            <listitem><para>string <link linkend="_class_c_p_o___heritage__1_1_1_classes_1_1_produit_1a6710452052f5fd1fd65141b5d0be0af2">getDesignation</link> ()</para>
+
+<para>Récupère la désignation du produit. </para>
+</listitem>
+            <listitem><para>int <link linkend="_class_c_p_o___heritage__1_1_1_classes_1_1_produit_1a6bfd7249e53f72967e20e6bf959a2a21">getPrixVente</link> ()</para>
+
+<para>Récupère le prix de vente du produit. </para>
+</listitem>
+            <listitem><para>string <link linkend="_class_c_p_o___heritage__1_1_1_classes_1_1_produit_1a9c2a3fcf5b614add81f07b9b76d8d342">afficher</link> ()</para>
+
+<para>Permet de récupérer une chaîne de caractères définissant le produit. </para>
+</listitem>
+        </itemizedlist>
+<simplesect>
+    <title>Additional Inherited Members    </title>
+Protected Attributes inherited from <link linkend="_class_c_p_o___heritage__1_1_1_classes_1_1_produit">CPO_Heritage_1.Classes.Produit</link>        <itemizedlist>
+            <listitem><para>string <emphasis role="strong">reference</emphasis></para>
+
+<para>La référence du produit. </para>
+</listitem>
+            <listitem><para>string <emphasis role="strong">designation</emphasis></para>
+
+<para>La désignation du produit. </para>
+</listitem>
+            <listitem><para>int <emphasis role="strong">prixVente</emphasis></para>
+
+<para>Le prix de vente du produit. </para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Constructor &amp; Destructor Documentation</title>
+<anchor xml:id="_class_c_p_o___heritage__1_1_1_classes_1_1_produit_fab_1aac867633a9dd1190887ec2c1b22afcbf"/><section>
+    <title>ProduitFab()</title>
+<indexterm><primary>ProduitFab</primary><secondary>CPO_Heritage_1.Classes.ProduitFab</secondary></indexterm>
+<indexterm><primary>CPO_Heritage_1.Classes.ProduitFab</primary><secondary>ProduitFab</secondary></indexterm>
+<para><computeroutput>CPO_Heritage_1.Classes.ProduitFab.ProduitFab (string reference, string designation, int prixVente, int numAtelierFabrication, int nbHeuresFabrication, int coutMatieresPremieres)<computeroutput>[inline]</computeroutput></computeroutput></para><para>
+
+<para>Constructeur de la classe ProduitFab. </para>
+</para>
+
+<para><formalpara><title>See also</title>
+
+<para>Produit(string, string, int)</para>
+</formalpara>
+
+                <formalpara>
+                    <title>
+Parameters</title>
+                    <para>
+                    <table frame="all">
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+<entry>numAtelierFabrication</entry><entry></entry>
+                            </row>
+                            <row>
+<entry>nbHeuresFabrication</entry><entry></entry>
+                            </row>
+                            <row>
+<entry>coutMatieresPremieres</entry><entry></entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                    </para>
+                </formalpara>
+                </para>
+</section>
+</section>
+<section>
+<title>Member Function Documentation</title>
+<anchor xml:id="_class_c_p_o___heritage__1_1_1_classes_1_1_produit_fab_1ab1e96ec46d9c92dfce51e57d7ec6c653"/><section>
+    <title>afficher()</title>
+<indexterm><primary>afficher</primary><secondary>CPO_Heritage_1.Classes.ProduitFab</secondary></indexterm>
+<indexterm><primary>CPO_Heritage_1.Classes.ProduitFab</primary><secondary>afficher</secondary></indexterm>
+<para><computeroutput>new string CPO_Heritage_1.Classes.ProduitFab.afficher ( )<computeroutput>[inline]</computeroutput></computeroutput></para><para>
+
+<para><formalpara><title>See also</title>
+
+<para>Produit.afficher()</para>
+</formalpara>
+</para>
+</para>
+
+<para><formalpara><title>Returns</title>
+
+<para>Le produitFab sous forme de chaîne</para>
+</formalpara>
+</para>
+</section>
+<anchor xml:id="_class_c_p_o___heritage__1_1_1_classes_1_1_produit_fab_1a22e1657135f647fc05dd790a60e4a5bd"/><section>
+    <title>getCoutMatieresPremieres()</title>
+<indexterm><primary>getCoutMatieresPremieres</primary><secondary>CPO_Heritage_1.Classes.ProduitFab</secondary></indexterm>
+<indexterm><primary>CPO_Heritage_1.Classes.ProduitFab</primary><secondary>getCoutMatieresPremieres</secondary></indexterm>
+<para><computeroutput>int CPO_Heritage_1.Classes.ProduitFab.getCoutMatieresPremieres ( )<computeroutput>[inline]</computeroutput></computeroutput></para><para>
+
+<para>Récupère le coût des matières premières. </para>
+</para>
+
+<para><formalpara><title>Returns</title>
+
+<para>Le coût des matières premières</para>
+</formalpara>
+</para>
+</section>
+<anchor xml:id="_class_c_p_o___heritage__1_1_1_classes_1_1_produit_fab_1af8a26891be9a3c33d6ccdee08602342a"/><section>
+    <title>getNbHeuresFabrication()</title>
+<indexterm><primary>getNbHeuresFabrication</primary><secondary>CPO_Heritage_1.Classes.ProduitFab</secondary></indexterm>
+<indexterm><primary>CPO_Heritage_1.Classes.ProduitFab</primary><secondary>getNbHeuresFabrication</secondary></indexterm>
+<para><computeroutput>int CPO_Heritage_1.Classes.ProduitFab.getNbHeuresFabrication ( )<computeroutput>[inline]</computeroutput></computeroutput></para><para>
+
+<para>Récupère le nombre d&apos;heure de fabrication. </para>
+</para>
+
+<para><formalpara><title>Returns</title>
+
+<para>Le nombre d&apos;heure de fabrication</para>
+</formalpara>
+</para>
+</section>
+<anchor xml:id="_class_c_p_o___heritage__1_1_1_classes_1_1_produit_fab_1a1fd0b0d28cab14638c6234b4fd8b402d"/><section>
+    <title>getNumAtelierFabrication()</title>
+<indexterm><primary>getNumAtelierFabrication</primary><secondary>CPO_Heritage_1.Classes.ProduitFab</secondary></indexterm>
+<indexterm><primary>CPO_Heritage_1.Classes.ProduitFab</primary><secondary>getNumAtelierFabrication</secondary></indexterm>
+<para><computeroutput>int CPO_Heritage_1.Classes.ProduitFab.getNumAtelierFabrication ( )<computeroutput>[inline]</computeroutput></computeroutput></para><para>
+
+<para>Récupère le numéro de l&apos;atelier de fabrication. </para>
+</para>
+
+<para><formalpara><title>Returns</title>
+
+<para>Le numéro de l&apos;atelier de fabrication</para>
+</formalpara>
+</para>
+</section>
+<para>
+The documentation for this class was generated from the following file:</para>
+C:/Users/St Jo Sup/Documents/CPO/CPO_Heritage/CPO_Heritage_1/Classes/ProduitFab.cs</section>
+</section>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.8" xml:lang="en-US">
+  <compounddef id="_program_8cs" kind="file" language="C#">
+    <compoundname>Program.cs</compoundname>
+    <innerclass refid="class_c_p_o___heritage__1_1_1_program" prot="public">CPO_Heritage_1::Program</innerclass>
+    <innernamespace refid="namespace_c_p_o___heritage__1">CPO_Heritage_1</innernamespace>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="keyword">using<sp/></highlight><highlight class="normal"><ref refid="namespace_c_p_o___heritage__1_1_1_classes" kindref="compound">CPO_Heritage_1.Classes</ref>;</highlight></codeline>
+<codeline lineno="2"><highlight class="normal"></highlight><highlight class="keyword">using<sp/></highlight><highlight class="normal">System;</highlight></codeline>
+<codeline lineno="3"><highlight class="normal"></highlight></codeline>
+<codeline lineno="4"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal"><ref refid="namespace_c_p_o___heritage__1" kindref="compound">CPO_Heritage_1</ref></highlight></codeline>
+<codeline lineno="5"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="6" refid="class_c_p_o___heritage__1_1_1_program" refkind="compound"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">class<sp/></highlight><highlight class="normal"><ref refid="class_c_p_o___heritage__1_1_1_program" kindref="compound">Program</ref></highlight></codeline>
+<codeline lineno="7"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="8"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">static</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>Main(</highlight><highlight class="keywordtype">string</highlight><highlight class="normal">[]<sp/>args)</highlight></codeline>
+<codeline lineno="9"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="10"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit_fab" kindref="compound">ProduitFab</ref><sp/>pf<sp/>=<sp/></highlight><highlight class="keyword">new</highlight><highlight class="normal"><sp/><ref refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit_fab" kindref="compound">ProduitFab</ref>(</highlight><highlight class="stringliteral">&quot;f01&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;réveil<sp/>matin&quot;</highlight><highlight class="normal">,<sp/>150,<sp/>1,<sp/>10,<sp/>50);</highlight></codeline>
+<codeline lineno="11"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit_ach" kindref="compound">ProduitAch</ref><sp/>pa<sp/>=<sp/></highlight><highlight class="keyword">new</highlight><highlight class="normal"><sp/><ref refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit_ach" kindref="compound">ProduitAch</ref>(</highlight><highlight class="stringliteral">&quot;a01&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;montre<sp/>bracelet&quot;</highlight><highlight class="normal">,<sp/>75,<sp/>1,<sp/>45);</highlight></codeline>
+<codeline lineno="12"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>Console.WriteLine(</highlight><highlight class="stringliteral">&quot;affichage<sp/>d&apos;un<sp/>produit<sp/>fabriqué<sp/>:<sp/>\n&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline lineno="13"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>Console.WriteLine(pf.<ref refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit_fab_1ab1e96ec46d9c92dfce51e57d7ec6c653" kindref="member">afficher</ref>());</highlight></codeline>
+<codeline lineno="14"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>Console.WriteLine(</highlight><highlight class="stringliteral">&quot;\naffichage<sp/>d&apos;un<sp/>produit<sp/>acheté<sp/>:<sp/>\n&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline lineno="15"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>Console.WriteLine(pa.<ref refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit_ach_1a9c6e33758e8df64aceb852c7cd4097ee" kindref="member">afficher</ref>());</highlight></codeline>
+<codeline lineno="16"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>Console.ReadKey();</highlight></codeline>
+<codeline lineno="17"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="18"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="19"><highlight class="normal">}</highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/St Jo Sup/Documents/CPO/CPO_Heritage/CPO_Heritage_1/Program.cs"/>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,332 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.8" xml:lang="en-US">
+  <compounddef id="class_c_p_o___heritage__1_1_1_classes_1_1_produit_fab" kind="class" language="C#" prot="public">
+    <compoundname>CPO_Heritage_1::Classes::ProduitFab</compoundname>
+    <basecompoundref refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit" prot="public" virt="non-virtual">CPO_Heritage_1.Classes.Produit</basecompoundref>
+    <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_c_p_o___heritage__1_1_1_classes_1_1_produit_fab_1aceffd8315b36419836367a391ed5cd2e" prot="private" static="no" mutable="no">
+        <type>int</type>
+        <definition>int CPO_Heritage_1.Classes.ProduitFab.numAtelierFabrication</definition>
+        <argsstring></argsstring>
+        <name>numAtelierFabrication</name>
+        <qualifiedname>CPO_Heritage_1.Classes.ProduitFab.numAtelierFabrication</qualifiedname>
+        <briefdescription>
+<para>Le numéro de l&apos;atelier de fabrication du produit. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/St Jo Sup/Documents/CPO/CPO_Heritage/CPO_Heritage_1/Classes/ProduitFab.cs" line="13" column="21" bodyfile="C:/Users/St Jo Sup/Documents/CPO/CPO_Heritage/CPO_Heritage_1/Classes/ProduitFab.cs" bodystart="13" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_c_p_o___heritage__1_1_1_classes_1_1_produit_fab_1aba8dc2902af6b4fc33b67bfcdb66522e" prot="private" static="no" mutable="no">
+        <type>int</type>
+        <definition>int CPO_Heritage_1.Classes.ProduitFab.nbHeuresFabrication</definition>
+        <argsstring></argsstring>
+        <name>nbHeuresFabrication</name>
+        <qualifiedname>CPO_Heritage_1.Classes.ProduitFab.nbHeuresFabrication</qualifiedname>
+        <briefdescription>
+<para>Le nombre d&apos;heure de fabrication du produit. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/St Jo Sup/Documents/CPO/CPO_Heritage/CPO_Heritage_1/Classes/ProduitFab.cs" line="17" column="21" bodyfile="C:/Users/St Jo Sup/Documents/CPO/CPO_Heritage/CPO_Heritage_1/Classes/ProduitFab.cs" bodystart="17" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_c_p_o___heritage__1_1_1_classes_1_1_produit_fab_1a47f81d84867d2d430bab213c4476f8a3" prot="private" static="no" mutable="no">
+        <type>int</type>
+        <definition>int CPO_Heritage_1.Classes.ProduitFab.coutMatieresPremieres</definition>
+        <argsstring></argsstring>
+        <name>coutMatieresPremieres</name>
+        <qualifiedname>CPO_Heritage_1.Classes.ProduitFab.coutMatieresPremieres</qualifiedname>
+        <briefdescription>
+<para>Le coût des matières premières du produit. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/St Jo Sup/Documents/CPO/CPO_Heritage/CPO_Heritage_1/Classes/ProduitFab.cs" line="21" column="21" bodyfile="C:/Users/St Jo Sup/Documents/CPO/CPO_Heritage/CPO_Heritage_1/Classes/ProduitFab.cs" bodystart="21" bodyend="-1"/>
+      </memberdef>
+    </sectiondef>
+    <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_c_p_o___heritage__1_1_1_classes_1_1_produit_fab_1aac867633a9dd1190887ec2c1b22afcbf" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>CPO_Heritage_1.Classes.ProduitFab.ProduitFab</definition>
+        <argsstring>(string reference, string designation, int prixVente, int numAtelierFabrication, int nbHeuresFabrication, int coutMatieresPremieres)</argsstring>
+        <name>ProduitFab</name>
+        <qualifiedname>CPO_Heritage_1.Classes.ProduitFab.ProduitFab</qualifiedname>
+        <param>
+          <type>string</type>
+          <declname>reference</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>designation</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>prixVente</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>numAtelierFabrication</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>nbHeuresFabrication</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>coutMatieresPremieres</declname>
+        </param>
+        <briefdescription>
+<para>Constructeur de la classe ProduitFab. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="see"><para>Produit(string, string, int)</para>
+</simplesect>
+<parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>numAtelierFabrication</parametername>
+</parameternamelist>
+<parameterdescription>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>nbHeuresFabrication</parametername>
+</parameternamelist>
+<parameterdescription>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>coutMatieresPremieres</parametername>
+</parameternamelist>
+<parameterdescription>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/St Jo Sup/Documents/CPO/CPO_Heritage/CPO_Heritage_1/Classes/ProduitFab.cs" line="33" column="16" bodyfile="C:/Users/St Jo Sup/Documents/CPO/CPO_Heritage/CPO_Heritage_1/Classes/ProduitFab.cs" bodystart="33" bodyend="39"/>
+      </memberdef>
+      <memberdef kind="function" id="class_c_p_o___heritage__1_1_1_classes_1_1_produit_fab_1a1fd0b0d28cab14638c6234b4fd8b402d" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>int CPO_Heritage_1.Classes.ProduitFab.getNumAtelierFabrication</definition>
+        <argsstring>()</argsstring>
+        <name>getNumAtelierFabrication</name>
+        <qualifiedname>CPO_Heritage_1.Classes.ProduitFab.getNumAtelierFabrication</qualifiedname>
+        <briefdescription>
+<para>Récupère le numéro de l&apos;atelier de fabrication. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="return"><para>Le numéro de l&apos;atelier de fabrication</para>
+</simplesect>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/St Jo Sup/Documents/CPO/CPO_Heritage/CPO_Heritage_1/Classes/ProduitFab.cs" line="47" column="20" bodyfile="C:/Users/St Jo Sup/Documents/CPO/CPO_Heritage/CPO_Heritage_1/Classes/ProduitFab.cs" bodystart="47" bodyend="50"/>
+      </memberdef>
+      <memberdef kind="function" id="class_c_p_o___heritage__1_1_1_classes_1_1_produit_fab_1af8a26891be9a3c33d6ccdee08602342a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>int CPO_Heritage_1.Classes.ProduitFab.getNbHeuresFabrication</definition>
+        <argsstring>()</argsstring>
+        <name>getNbHeuresFabrication</name>
+        <qualifiedname>CPO_Heritage_1.Classes.ProduitFab.getNbHeuresFabrication</qualifiedname>
+        <briefdescription>
+<para>Récupère le nombre d&apos;heure de fabrication. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="return"><para>Le nombre d&apos;heure de fabrication</para>
+</simplesect>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/St Jo Sup/Documents/CPO/CPO_Heritage/CPO_Heritage_1/Classes/ProduitFab.cs" line="56" column="20" bodyfile="C:/Users/St Jo Sup/Documents/CPO/CPO_Heritage/CPO_Heritage_1/Classes/ProduitFab.cs" bodystart="56" bodyend="59"/>
+      </memberdef>
+      <memberdef kind="function" id="class_c_p_o___heritage__1_1_1_classes_1_1_produit_fab_1a22e1657135f647fc05dd790a60e4a5bd" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>int CPO_Heritage_1.Classes.ProduitFab.getCoutMatieresPremieres</definition>
+        <argsstring>()</argsstring>
+        <name>getCoutMatieresPremieres</name>
+        <qualifiedname>CPO_Heritage_1.Classes.ProduitFab.getCoutMatieresPremieres</qualifiedname>
+        <briefdescription>
+<para>Récupère le coût des matières premières. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="return"><para>Le coût des matières premières</para>
+</simplesect>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/St Jo Sup/Documents/CPO/CPO_Heritage/CPO_Heritage_1/Classes/ProduitFab.cs" line="65" column="20" bodyfile="C:/Users/St Jo Sup/Documents/CPO/CPO_Heritage/CPO_Heritage_1/Classes/ProduitFab.cs" bodystart="65" bodyend="68"/>
+      </memberdef>
+      <memberdef kind="function" id="class_c_p_o___heritage__1_1_1_classes_1_1_produit_fab_1ab1e96ec46d9c92dfce51e57d7ec6c653" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>new string</type>
+        <definition>new string CPO_Heritage_1.Classes.ProduitFab.afficher</definition>
+        <argsstring>()</argsstring>
+        <name>afficher</name>
+        <qualifiedname>CPO_Heritage_1.Classes.ProduitFab.afficher</qualifiedname>
+        <briefdescription>
+<para><simplesect kind="see"><para>Produit.afficher()</para>
+</simplesect>
+</para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="return"><para>Le produitFab sous forme de chaîne</para>
+</simplesect>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/St Jo Sup/Documents/CPO/CPO_Heritage/CPO_Heritage_1/Classes/ProduitFab.cs" line="107" column="27" bodyfile="C:/Users/St Jo Sup/Documents/CPO/CPO_Heritage/CPO_Heritage_1/Classes/ProduitFab.cs" bodystart="107" bodyend="112"/>
+      </memberdef>
+    </sectiondef>
+    <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_c_p_o___heritage__1_1_1_classes_1_1_produit_fab_1a59e264707062810f168195515e800fae" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void CPO_Heritage_1.Classes.ProduitFab.setNumAtelierFabrication</definition>
+        <argsstring>(int numAtelierFabrication)</argsstring>
+        <name>setNumAtelierFabrication</name>
+        <qualifiedname>CPO_Heritage_1.Classes.ProduitFab.setNumAtelierFabrication</qualifiedname>
+        <param>
+          <type>int</type>
+          <declname>numAtelierFabrication</declname>
+        </param>
+        <briefdescription>
+<para>Défini le numéro de l&apos;atelier de fabrication. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>numAtelierFabrication</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Le numéro de l&apos;atelier de fabrication</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/St Jo Sup/Documents/CPO/CPO_Heritage/CPO_Heritage_1/Classes/ProduitFab.cs" line="77" column="22" bodyfile="C:/Users/St Jo Sup/Documents/CPO/CPO_Heritage/CPO_Heritage_1/Classes/ProduitFab.cs" bodystart="77" bodyend="80"/>
+      </memberdef>
+      <memberdef kind="function" id="class_c_p_o___heritage__1_1_1_classes_1_1_produit_fab_1a32a4c13260de9f1aa9729d1cbb1e19e4" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void CPO_Heritage_1.Classes.ProduitFab.setNbHeuresFabrication</definition>
+        <argsstring>(int nbHeuresFabrication)</argsstring>
+        <name>setNbHeuresFabrication</name>
+        <qualifiedname>CPO_Heritage_1.Classes.ProduitFab.setNbHeuresFabrication</qualifiedname>
+        <param>
+          <type>int</type>
+          <declname>nbHeuresFabrication</declname>
+        </param>
+        <briefdescription>
+<para>Défini le nombre d&apos;heure de fabrication. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>nbHeuresFabrication</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Le nombre d&apos;heure de fabrication</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/St Jo Sup/Documents/CPO/CPO_Heritage/CPO_Heritage_1/Classes/ProduitFab.cs" line="86" column="22" bodyfile="C:/Users/St Jo Sup/Documents/CPO/CPO_Heritage/CPO_Heritage_1/Classes/ProduitFab.cs" bodystart="86" bodyend="89"/>
+      </memberdef>
+      <memberdef kind="function" id="class_c_p_o___heritage__1_1_1_classes_1_1_produit_fab_1a8dd60121dbe7d4b1ea319a08b85c3287" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void CPO_Heritage_1.Classes.ProduitFab.setCoutMatieresPremieres</definition>
+        <argsstring>(int coutMatieresPremieres)</argsstring>
+        <name>setCoutMatieresPremieres</name>
+        <qualifiedname>CPO_Heritage_1.Classes.ProduitFab.setCoutMatieresPremieres</qualifiedname>
+        <param>
+          <type>int</type>
+          <declname>coutMatieresPremieres</declname>
+        </param>
+        <briefdescription>
+<para>Défini le coût des matières premières. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>coutMatieresPremieres</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Le coût des matières premières</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/St Jo Sup/Documents/CPO/CPO_Heritage/CPO_Heritage_1/Classes/ProduitFab.cs" line="95" column="22" bodyfile="C:/Users/St Jo Sup/Documents/CPO/CPO_Heritage/CPO_Heritage_1/Classes/ProduitFab.cs" bodystart="95" bodyend="98"/>
+      </memberdef>
+    </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>CPO_Heritage_1.Classes.ProduitFab</label>
+        <link refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit_fab"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>Produit</label>
+        <link refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit"/>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>CPO_Heritage_1.Classes.ProduitFab</label>
+        <link refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit_fab"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>Produit</label>
+        <link refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit"/>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/St Jo Sup/Documents/CPO/CPO_Heritage/CPO_Heritage_1/Classes/ProduitFab.cs" line="7" column="11" bodyfile="C:/Users/St Jo Sup/Documents/CPO/CPO_Heritage/CPO_Heritage_1/Classes/ProduitFab.cs" bodystart="8" bodyend="114"/>
+    <listofallmembers>
+      <member refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit_fab_1ab1e96ec46d9c92dfce51e57d7ec6c653" prot="public" virt="non-virtual"><scope>CPO_Heritage_1::Classes::ProduitFab</scope><name>afficher</name></member>
+      <member refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit_fab_1a47f81d84867d2d430bab213c4476f8a3" prot="private" virt="non-virtual"><scope>CPO_Heritage_1::Classes::ProduitFab</scope><name>coutMatieresPremieres</name></member>
+      <member refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit_1a5c74fbb9fc37aeac434dd2fce544174b" prot="protected" virt="non-virtual"><scope>CPO_Heritage_1::Classes::ProduitFab</scope><name>designation</name></member>
+      <member refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit_fab_1a22e1657135f647fc05dd790a60e4a5bd" prot="public" virt="non-virtual"><scope>CPO_Heritage_1::Classes::ProduitFab</scope><name>getCoutMatieresPremieres</name></member>
+      <member refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit_1a6710452052f5fd1fd65141b5d0be0af2" prot="public" virt="non-virtual"><scope>CPO_Heritage_1::Classes::ProduitFab</scope><name>getDesignation</name></member>
+      <member refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit_fab_1af8a26891be9a3c33d6ccdee08602342a" prot="public" virt="non-virtual"><scope>CPO_Heritage_1::Classes::ProduitFab</scope><name>getNbHeuresFabrication</name></member>
+      <member refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit_fab_1a1fd0b0d28cab14638c6234b4fd8b402d" prot="public" virt="non-virtual"><scope>CPO_Heritage_1::Classes::ProduitFab</scope><name>getNumAtelierFabrication</name></member>
+      <member refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit_1a6bfd7249e53f72967e20e6bf959a2a21" prot="public" virt="non-virtual"><scope>CPO_Heritage_1::Classes::ProduitFab</scope><name>getPrixVente</name></member>
+      <member refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit_1a18355bc89dfdc251bc6c18521ca001eb" prot="public" virt="non-virtual"><scope>CPO_Heritage_1::Classes::ProduitFab</scope><name>getReference</name></member>
+      <member refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit_fab_1aba8dc2902af6b4fc33b67bfcdb66522e" prot="private" virt="non-virtual"><scope>CPO_Heritage_1::Classes::ProduitFab</scope><name>nbHeuresFabrication</name></member>
+      <member refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit_fab_1aceffd8315b36419836367a391ed5cd2e" prot="private" virt="non-virtual"><scope>CPO_Heritage_1::Classes::ProduitFab</scope><name>numAtelierFabrication</name></member>
+      <member refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit_1a0304e34cf5e7a7efdbdc61de47f27508" prot="protected" virt="non-virtual"><scope>CPO_Heritage_1::Classes::ProduitFab</scope><name>prixVente</name></member>
+      <member refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit_1ac3c9e74f8bdb21e2533a689e97349096" prot="public" virt="non-virtual"><scope>CPO_Heritage_1::Classes::ProduitFab</scope><name>Produit</name></member>
+      <member refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit_fab_1aac867633a9dd1190887ec2c1b22afcbf" prot="public" virt="non-virtual"><scope>CPO_Heritage_1::Classes::ProduitFab</scope><name>ProduitFab</name></member>
+      <member refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit_1ab7985a471712842b87a94ddb93f112ba" prot="protected" virt="non-virtual"><scope>CPO_Heritage_1::Classes::ProduitFab</scope><name>reference</name></member>
+      <member refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit_fab_1a8dd60121dbe7d4b1ea319a08b85c3287" prot="private" virt="non-virtual"><scope>CPO_Heritage_1::Classes::ProduitFab</scope><name>setCoutMatieresPremieres</name></member>
+      <member refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit_fab_1a32a4c13260de9f1aa9729d1cbb1e19e4" prot="private" virt="non-virtual"><scope>CPO_Heritage_1::Classes::ProduitFab</scope><name>setNbHeuresFabrication</name></member>
+      <member refid="class_c_p_o___heritage__1_1_1_classes_1_1_produit_fab_1a59e264707062810f168195515e800fae" prot="private" virt="non-virtual"><scope>CPO_Heritage_1::Classes::ProduitFab</scope><name>setNumAtelierFabrication</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

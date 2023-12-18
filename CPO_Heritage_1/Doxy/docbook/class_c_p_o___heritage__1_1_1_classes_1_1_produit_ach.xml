@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_class_c_p_o___heritage__1_1_1_classes_1_1_produit_ach" xml:lang="en-US">
+<title>CPO_Heritage_1.Classes.ProduitAch Class Reference</title>
+<indexterm><primary>CPO_Heritage_1.Classes.ProduitAch</primary></indexterm>
+<para>Inheritance diagram for CPO_Heritage_1.Classes.ProduitAch:    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="class_c_p_o___heritage__1_1_1_classes_1_1_produit_ach.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+<simplesect>
+    <title>Public Member Functions    </title>
+        <itemizedlist>
+            <listitem><para><link linkend="_class_c_p_o___heritage__1_1_1_classes_1_1_produit_ach_1ae7ccaa9280a82d008643cdd3f7d9a061">ProduitAch</link> (string <link linkend="_class_c_p_o___heritage__1_1_1_classes_1_1_produit_1ab7985a471712842b87a94ddb93f112ba">reference</link>, string <link linkend="_class_c_p_o___heritage__1_1_1_classes_1_1_produit_1a5c74fbb9fc37aeac434dd2fce544174b">designation</link>, int <link linkend="_class_c_p_o___heritage__1_1_1_classes_1_1_produit_1a0304e34cf5e7a7efdbdc61de47f27508">prixVente</link>, int numeroFournisseur, int prixAchat)</para>
+
+<para>Constructeur de la classe ProduitAch. </para>
+</listitem>
+            <listitem><para>int <link linkend="_class_c_p_o___heritage__1_1_1_classes_1_1_produit_ach_1a32a51e52f7d5a2f159e53ae7aa5303d6">getNumeroFournisseur</link> ()</para>
+
+<para>Récupère le numéro de fournisseur. </para>
+</listitem>
+            <listitem><para>int <link linkend="_class_c_p_o___heritage__1_1_1_classes_1_1_produit_ach_1aed97f29b93b7e14ea26d6c28188bd7c4">getPrixAchat</link> ()</para>
+
+<para>Récupère le prix d&apos;achat. </para>
+</listitem>
+            <listitem><para>new string <link linkend="_class_c_p_o___heritage__1_1_1_classes_1_1_produit_ach_1a9c6e33758e8df64aceb852c7cd4097ee">afficher</link> ()</para>
+
+<para><formalpara><title>See also</title>
+
+<para>Produit.afficher()</para>
+</formalpara>
+</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+Public Member Functions inherited from <link linkend="_class_c_p_o___heritage__1_1_1_classes_1_1_produit">CPO_Heritage_1.Classes.Produit</link>        <itemizedlist>
+            <listitem><para><link linkend="_class_c_p_o___heritage__1_1_1_classes_1_1_produit_1ac3c9e74f8bdb21e2533a689e97349096">Produit</link> (string <link linkend="_class_c_p_o___heritage__1_1_1_classes_1_1_produit_1ab7985a471712842b87a94ddb93f112ba">reference</link>, string <link linkend="_class_c_p_o___heritage__1_1_1_classes_1_1_produit_1a5c74fbb9fc37aeac434dd2fce544174b">designation</link>, int <link linkend="_class_c_p_o___heritage__1_1_1_classes_1_1_produit_1a0304e34cf5e7a7efdbdc61de47f27508">prixVente</link>)</para>
+
+<para>Constructeur de la classe produit. </para>
+</listitem>
+            <listitem><para>string <link linkend="_class_c_p_o___heritage__1_1_1_classes_1_1_produit_1a18355bc89dfdc251bc6c18521ca001eb">getReference</link> ()</para>
+
+<para>Récupère la référence du produit. </para>
+</listitem>
+            <listitem><para>string <link linkend="_class_c_p_o___heritage__1_1_1_classes_1_1_produit_1a6710452052f5fd1fd65141b5d0be0af2">getDesignation</link> ()</para>
+
+<para>Récupère la désignation du produit. </para>
+</listitem>
+            <listitem><para>int <link linkend="_class_c_p_o___heritage__1_1_1_classes_1_1_produit_1a6bfd7249e53f72967e20e6bf959a2a21">getPrixVente</link> ()</para>
+
+<para>Récupère le prix de vente du produit. </para>
+</listitem>
+            <listitem><para>string <link linkend="_class_c_p_o___heritage__1_1_1_classes_1_1_produit_1a9c2a3fcf5b614add81f07b9b76d8d342">afficher</link> ()</para>
+
+<para>Permet de récupérer une chaîne de caractères définissant le produit. </para>
+</listitem>
+        </itemizedlist>
+<simplesect>
+    <title>Additional Inherited Members    </title>
+Protected Attributes inherited from <link linkend="_class_c_p_o___heritage__1_1_1_classes_1_1_produit">CPO_Heritage_1.Classes.Produit</link>        <itemizedlist>
+            <listitem><para>string <emphasis role="strong">reference</emphasis></para>
+
+<para>La référence du produit. </para>
+</listitem>
+            <listitem><para>string <emphasis role="strong">designation</emphasis></para>
+
+<para>La désignation du produit. </para>
+</listitem>
+            <listitem><para>int <emphasis role="strong">prixVente</emphasis></para>
+
+<para>Le prix de vente du produit. </para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Constructor &amp; Destructor Documentation</title>
+<anchor xml:id="_class_c_p_o___heritage__1_1_1_classes_1_1_produit_ach_1ae7ccaa9280a82d008643cdd3f7d9a061"/><section>
+    <title>ProduitAch()</title>
+<indexterm><primary>ProduitAch</primary><secondary>CPO_Heritage_1.Classes.ProduitAch</secondary></indexterm>
+<indexterm><primary>CPO_Heritage_1.Classes.ProduitAch</primary><secondary>ProduitAch</secondary></indexterm>
+<para><computeroutput>CPO_Heritage_1.Classes.ProduitAch.ProduitAch (string reference, string designation, int prixVente, int numeroFournisseur, int prixAchat)<computeroutput>[inline]</computeroutput></computeroutput></para><para>
+
+<para>Constructeur de la classe ProduitAch. </para>
+</para>
+
+<para><formalpara><title>See also</title>
+
+<para>Produit(string, string, int)</para>
+</formalpara>
+
+                <formalpara>
+                    <title>
+Parameters</title>
+                    <para>
+                    <table frame="all">
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+<entry>numeroFournisseur</entry><entry></entry>
+                            </row>
+                            <row>
+<entry>prixAchat</entry><entry></entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                    </para>
+                </formalpara>
+                </para>
+</section>
+</section>
+<section>
+<title>Member Function Documentation</title>
+<anchor xml:id="_class_c_p_o___heritage__1_1_1_classes_1_1_produit_ach_1a9c6e33758e8df64aceb852c7cd4097ee"/><section>
+    <title>afficher()</title>
+<indexterm><primary>afficher</primary><secondary>CPO_Heritage_1.Classes.ProduitAch</secondary></indexterm>
+<indexterm><primary>CPO_Heritage_1.Classes.ProduitAch</primary><secondary>afficher</secondary></indexterm>
+<para><computeroutput>new string CPO_Heritage_1.Classes.ProduitAch.afficher ( )<computeroutput>[inline]</computeroutput></computeroutput></para><para>
+
+<para><formalpara><title>See also</title>
+
+<para>Produit.afficher()</para>
+</formalpara>
+</para>
+</para>
+
+<para><formalpara><title>Returns</title>
+
+<para>Le produitAch sous forme de chaîne</para>
+</formalpara>
+</para>
+</section>
+<anchor xml:id="_class_c_p_o___heritage__1_1_1_classes_1_1_produit_ach_1a32a51e52f7d5a2f159e53ae7aa5303d6"/><section>
+    <title>getNumeroFournisseur()</title>
+<indexterm><primary>getNumeroFournisseur</primary><secondary>CPO_Heritage_1.Classes.ProduitAch</secondary></indexterm>
+<indexterm><primary>CPO_Heritage_1.Classes.ProduitAch</primary><secondary>getNumeroFournisseur</secondary></indexterm>
+<para><computeroutput>int CPO_Heritage_1.Classes.ProduitAch.getNumeroFournisseur ( )<computeroutput>[inline]</computeroutput></computeroutput></para><para>
+
+<para>Récupère le numéro de fournisseur. </para>
+</para>
+
+<para><formalpara><title>Returns</title>
+
+<para>Le numéro de fournisseur</para>
+</formalpara>
+</para>
+</section>
+<anchor xml:id="_class_c_p_o___heritage__1_1_1_classes_1_1_produit_ach_1aed97f29b93b7e14ea26d6c28188bd7c4"/><section>
+    <title>getPrixAchat()</title>
+<indexterm><primary>getPrixAchat</primary><secondary>CPO_Heritage_1.Classes.ProduitAch</secondary></indexterm>
+<indexterm><primary>CPO_Heritage_1.Classes.ProduitAch</primary><secondary>getPrixAchat</secondary></indexterm>
+<para><computeroutput>int CPO_Heritage_1.Classes.ProduitAch.getPrixAchat ( )<computeroutput>[inline]</computeroutput></computeroutput></para><para>
+
+<para>Récupère le prix d&apos;achat. </para>
+</para>
+
+<para><formalpara><title>Returns</title>
+
+<para>Le prix d&apos;achat</para>
+</formalpara>
+</para>
+</section>
+<para>
+The documentation for this class was generated from the following file:</para>
+C:/Users/St Jo Sup/Documents/CPO/CPO_Heritage/CPO_Heritage_1/Classes/ProduitAch.cs</section>
+</section>
